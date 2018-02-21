@@ -1,0 +1,2 @@
+1. Get IDE.
+2. Learn env initial
